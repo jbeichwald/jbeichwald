@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I won't be very active on this account, but you can still reach me on my email if needed!
 <!--
 **jbeichwald/jbeichwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
