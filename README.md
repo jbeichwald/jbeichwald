@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I won't be very active on this account, but you can still reach me on my email if needed!
+I am currentrly learning how to create mobile applications using Flutter, but I might start learning react soon.
 <!--
 **jbeichwald/jbeichwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
